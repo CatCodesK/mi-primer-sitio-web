@@ -1,0 +1,35 @@
+body{
+    background-color: #fddbd2;
+    font-family: "Century Gothic", sans-serif;
+    font-size: 15px;
+}
+
+/* .palabra para mandar a llamar las clases de HTML (class)*/
+.logo{
+    /*Width o Height (Ancho o Alto)*/
+    height: 250px;
+    /*Redondear imagen*/
+    border-radius: 100px;
+    border: double;
+}
+
+.monoplazas{
+    height: 200px;
+    border-radius: 10px;
+    /* opacity: 0.10; */
+}
+
+.desordenada{
+    /*background-color: #d2f3fd;*/
+    background-image: url(https://e0.pxfuel.com/wallpapers/843/879/desktop-wallpaper-blue-red-neon-vivid-colors-resolution-background-and.jpg);
+    color: white;
+}
+
+h2{
+    text-align: center;
+}
+
+.imagenes{
+    /*alinear imagenes usando un DIV*/
+    text-align: center;
+}
